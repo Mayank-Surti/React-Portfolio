@@ -28,6 +28,9 @@ function Project() {
                 <p>A local multiplayer turn-based strategy game in Java, featuring an interactive 2D graphical interface using AWT and Swing for game mechanics. Built a custom game engine to handle logic.</p>
             </div>
         </div>
+
+        
+        
     </div>
     );
 }
