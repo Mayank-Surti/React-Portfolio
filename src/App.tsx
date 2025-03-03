@@ -6,6 +6,7 @@ import {
   Navigation,
   Footer,
 } from "./components";
+import Project2 from './components/Project2'
 import FadeIn from './components/FadeIn';
 import './index.scss';
 
@@ -31,6 +32,7 @@ function App() {
             <Main/>
             <Expertise/>
             <Project/>
+            <Project2/>
         </FadeIn>
         <Footer />
     </div>

@@ -2,13 +2,14 @@ import React from "react";
 import seamimg from '../assets/images/seam-carving-ss.png'
 import verbimg from '../assets/images/verbatim-ss.png'
 import straimg from '../assets/images/stratagem-ss.png'
+import faciimg from '../assets/images/facility.jpg'
 import '../assets/styles/Project.scss';
 
 function Project() {
 
     return(
     <div className="projects-container" id="projects">
-        <h1>Projects</h1>
+        <h1>Programming Projects</h1>
         <div className="projects-grid">
             <div className="project">
                 <a href="https://mayank-surti.github.io/Verbatim/" target="_blank" rel="noreferrer"><img src={verbimg} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -28,8 +29,6 @@ function Project() {
                 <p>A local multiplayer turn-based strategy game in Java, featuring an interactive 2D graphical interface using AWT and Swing for game mechanics. Built a custom game engine to handle logic.</p>
             </div>
         </div>
-
-        
         
     </div>
     );
