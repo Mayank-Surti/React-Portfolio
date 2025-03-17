@@ -2,7 +2,7 @@ import React from "react";
 import seamimg from '../assets/images/seam-carving-ss.png'
 import verbimg from '../assets/images/verbatim-ss.png'
 import straimg from '../assets/images/stratagem-ss.png'
-import faciimg from '../assets/images/facility.jpg'
+import inveimg from '../assets/images/inventory-manager.png'
 import '../assets/styles/Project.scss';
 
 function Project() {
@@ -11,6 +11,11 @@ function Project() {
     <div className="projects-container" id="projects">
         <h1>Programming Projects</h1>
         <div className="projects-grid">
+            <div className="project">
+                <a href="https://inventory-management-bice-zeta.vercel.app/" target="_blank" rel="noreferrer"><img src={inveimg} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://inventory-management-bice-zeta.vercel.app/" target="_blank" rel="noreferrer"><h2>Inventory Manager</h2></a>
+                <p>A full-stack inventory management dashboard built using React and AWS services. Allows users to manage their inventory effectively, keeping track of products, quantities, and other key metrics.</p>
+            </div>
             <div className="project">
                 <a href="https://mayank-surti.github.io/Verbatim/" target="_blank" rel="noreferrer"><img src={verbimg} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://mayank-surti.github.io/Verbatim/" target="_blank" rel="noreferrer"><h2>Verbatim</h2></a>
