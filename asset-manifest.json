@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.a40b162a.css",
-    "main.js": "/React-Portfolio/static/js/main.aa3d73a1.js",
+    "main.js": "/React-Portfolio/static/js/main.0484c3dd.js",
     "static/js/453.8550938d.chunk.js": "/React-Portfolio/static/js/453.8550938d.chunk.js",
     "static/media/bg-dark.png": "/React-Portfolio/static/media/bg-dark.e775b94925bedaf5e7b8.png",
     "static/media/bg-light.png": "/React-Portfolio/static/media/bg-light.7498e40d98a2fc30b80b.png",
@@ -10,15 +10,16 @@
     "static/media/seam-carving-ss.png": "/React-Portfolio/static/media/seam-carving-ss.f76394280b2bfb60d1ef.png",
     "static/media/isometric-bedroom.jpg": "/React-Portfolio/static/media/isometric-bedroom.dcf62e800504ff69eae9.jpg",
     "static/media/forest.jpg": "/React-Portfolio/static/media/forest.8e3e67d7a0fc009a2e9c.jpg",
+    "static/media/inventory-manager.png": "/React-Portfolio/static/media/inventory-manager.6c5db3d9cea0e013d71f.png",
     "static/media/verbatim-ss.png": "/React-Portfolio/static/media/verbatim-ss.e0894332f11a4cb1b368.png",
     "static/media/stratagem-ss.png": "/React-Portfolio/static/media/stratagem-ss.17ca448a4f82adac8f90.png",
     "index.html": "/React-Portfolio/index.html",
     "main.a40b162a.css.map": "/React-Portfolio/static/css/main.a40b162a.css.map",
-    "main.aa3d73a1.js.map": "/React-Portfolio/static/js/main.aa3d73a1.js.map",
+    "main.0484c3dd.js.map": "/React-Portfolio/static/js/main.0484c3dd.js.map",
     "453.8550938d.chunk.js.map": "/React-Portfolio/static/js/453.8550938d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a40b162a.css",
-    "static/js/main.aa3d73a1.js"
+    "static/js/main.0484c3dd.js"
   ]
 }
