@@ -1,3 +1,8 @@
+/**
+ * To deploy:
+ * npm run deploy
+ */
+
 import React, {useState, useEffect} from "react";
 import {
   Main,
